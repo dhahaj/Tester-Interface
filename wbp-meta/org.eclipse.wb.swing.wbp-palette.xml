@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette>
+	<category id="1" name="GUI Interface" description="Main Interface" open="true">
+		<component class="Button" name="Program"></component>
+		<component class="Button"/>
+	</category>
+</palette>
